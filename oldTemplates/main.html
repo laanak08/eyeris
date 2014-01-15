@@ -1,0 +1,53 @@
+		{% if alert %}
+			<div class="ui-widget">
+				<div class="ui-state-error ui-corner-all" style="padding: 0 .7em;">
+					<p><span class="ui-icon ui-icon-alert" style="float: left; margin-right: .3em;"></span>
+					<strong>Alert:</strong> {{ alert }} </p>
+				</div>
+			</div>
+		{% endif %}
+		{% if updates %}
+			<div class="ui-widget">
+				<div class="ui-state-highlight ui-corner-all" style="margin-top: 20px; padding: 0 .7em;">
+					<p><span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+					<strong>Updates:</strong> {{ updates }} </p>
+				</div>
+			</div>
+		{% endif %}
+		<div id="tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
+				<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
+					<li class="ui-state-default ui-corner-top ui-tabs-active ui-state-active" role="tab" tabindex="0" aria-controls="mainContent" aria-labelledby="ui-id-1" aria-selected="true">
+						<a href="#mainContent" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-1">KERs</a></li>
+					<li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="errors" aria-labelledby="ui-id-2" aria-selected="false">
+						<a href="#errors" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2">Errors</a></li>
+				  	 <li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tracer" aria-labelledby="ui-id-3" aria-selected="false">
+						<a href="#tracer" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3">Tracer</a></li>
+				</ul>	
+			<div id="mainContent">
+				<form action="/results" method="GET">
+				<fieldset>
+					<input type="hidden" name="Collection" value="lexisadvance" />
+					<input type="hidden" name="dn" value="KeyEvent" />
+					{{ timestampForm.startDate.label_tag }} {{ timestampForm.startDate }} {{ timestampForm.startTime }}
+					{{ timestampForm.endDate.label_tag }} {{ timestampForm.endDate }} {{ timestampForm.endTime }}
+				<div class="extraFilters">
+					{% for field in form %}
+						{{ field.label_tag }} {{ field }}
+					{% endfor %}
+				</div><!-- extra filters -->
+				<p></p>
+					<input type=submit value="Submit">
+				</fieldset>
+				</form>
+			</div>
+			{% for m in {{ errTrace }} %}
+				<div id="{{ m }}">
+				<div class="ui-widget">
+					<div class="ui-state-highlight ui-corner-all" style="margin-top: 20px; padding: 0 .7em;">
+						<p><span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+						<strong>Hi!</strong> Nice to see you are interested in this search form, this page is still under construction</p>
+					</div>
+				</div>
+				</div><!-- end of errors -->	
+			{% endfor %}
+		</div> <!-- end of tabs -->

@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>iris query tool</title>
+<link rel="stylesheet" href="css/blitzer/jquery-ui-1.10.3.custom.css" />
+<link rel="stylesheet" href="css/retscpm.css" />
+<link rel="stylesheet" href="css/cd_admin.css" />
+<style>
+	form fieldset {
+		padding: 0px 0px;
+		margin: 0px 0px;
+	}
+
+	form fieldset ul {
+		list-style-type: none;
+		-webkit-margin-before: 0px;
+		-webkit-margin-after: 0px;
+		-webkit-padding-start: 0px;
+		-moz-margin-before: 0px;
+		-moz-margin-after: 0px;
+		-moz-padding-start: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+</style>
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/jquery-ui-1.10.3.custom.min.js"></script>
+<script src="js/init.js"></script>
+</head>
+<body>
+<div data-role="page" id="container">
+
+<div id="header">
+  <p id="topNav"><span>Help</span><a id="home"  href="#">Home</a></p>
+
+  <p id="title"><i>iris</i> query tool</p>
+</div>
+<div class="ui-widget">
+	<div class="ui-state-error ui-corner-all" style="padding: 0 .7em;">
+		<p><span class="ui-icon ui-icon-alert" style="float: left; margin-right: .3em;"></span>
+		<strong>Alert:</strong> This is a prototype only on a select set of servers. Records are kept for 24 hours only </p>
+	</div>
+</div>
+<div class="ui-widget">
+	<div class="ui-state-highlight ui-corner-all" style="margin-top: 20px; padding: 0 .7em;">
+		<p><span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+		<strong>Updates</strong> All identified LexisAdvance servers are now loading. Begin and end time are displaying as columns, as well as response time in seconds. The Server filter is set to auto-complete with the servers we have.</p>
+	</div>
+</div>
+
+
+<div id="tabs">
+	<ul>
+	   <li><a href="#mainContent">KERs</a></li>
+	   <li><a href="#errors">Errors</a></li>
+	   <li><a href="#tracer">Tracer</a></li>
+	</ul>
+
+<div id="mainContent">
+<form action="./results.html" method="GET">
+<fieldset>
+<input type="hidden" name="Collection" value="lexisadvance" />
+<input type="hidden" name="dn" value="KeyEvent" />
+<ul>
+<li><label>Start DateTime </label><input type="text" name="sd" id="sd"> <input type="text" name="st" id="st" title="00:00:00"></li>
+<li><label>End DateTime</label><input type="text" name="ed" id="ed"> <input type="text" name="et" id="et" title="24:00:00"> </li>
+</ul>
+<div class="extraFilters">
+<ul>
+<li><label>Application </label><input type="text" name="app"></li>
+<li><label for="serverName">Server</label><input type="text" name="serverName" id="serverName"> </li>
+<li><label>Action</label><input type="text" name="action"> </li>
+<li><label>HierarchCode</label><input type="text" name="hcd"> </li>
+<li><label>transId</label><input type="text" name="transId"> </li>
+<li><label>webId</label><input type="text" name="webId"> </li>
+</ul>
+</div><!-- extra filters -->
+<p></p><input type=submit value="Submit">
+
+</fieldset>
+</form>
+</div>
+
+
+<div id="errors">
+<div class="ui-widget">
+	<div class="ui-state-highlight ui-corner-all" style="margin-top: 20px; padding: 0 .7em;">
+		<p><span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+		<strong>Hi!</strong> Nice to see you are interested in this search form, this page is still under construction</p>
+	</div>
+</div>
+</div><!-- end of errors -->	
+
+<div id="tracer">
+<div class="ui-widget">
+	<div class="ui-state-highlight ui-corner-all" style="margin-top: 20px; padding: 0 .7em;">
+		<p><span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+		<strong>Hi!</strong> Nice to see you are interested in this search form, this page is still under construction</p>
+	</div>
+</div>
+</div><!-- end of errors -->	
+
+</div> <!-- end of tabs -->
+
+<div id="footer">
+<p>@ 2013 Reed Elsevier Technology Services.</p>
+</div>
+
+
+</div>
+
+
+
+</body>
+</html>

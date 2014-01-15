@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Project IRIS - Smapi KER Data Results</title>
+<link rel="stylesheet" href="../html/css/blitzer/jquery-ui-1.10.3.custom.css" />
+<link rel="stylesheet" href="../html/css/retscpm.css" />
+<link rel="stylesheet" href="../html/css/iris_results.css" />
+<style>
+	#foot {
+		margin-left: auto;
+		margin-right: auto;
+		width: 300px;
+	}
+	
+	#moreButtonWrapper {
+		margin-bottom: 30px;
+	}
+	#nobs {
+		margin-left: 10px;
+	}
+
+	.scroll {
+		height: 40px;
+		width: 20px;
+		overflow: auto;
+	}
+
+</style>
+</head>
+
+<body>
+<div id="header">
+<p id="title"><i>iris</i> query results</p>
+</div>
+
+<div id="resultsTable">
+<div class="ui-widget" style="margin: 10px">
+	<div class="ui-widget-content ui-corner-all" style="padding: 0 .7em;">
+		<p><span class="ui-icon ui-icon-gear" style="float: left; margin-right: .3em;"></span>
+		<strong id="query">Query:</strong></p>
+	</div>
+</div>
+
+<div id="column-selector" style="margin: 10px">
+<input type="checkbox" id="col1" /><label for="col1">timestamp</label>
+<input type="checkbox" id="col2" /><label for="col2">host</label>
+<input type="checkbox" id="col3" /><label for="col3">action</label>
+<input type="checkbox" id="col4" /><label for="col4">beginTS</label>
+<input type="checkbox" id="col5" /><label for="col5">endTS</label>
+<input type="checkbox" id="col6" /><label for="col6">response</label>
+<input type="checkbox" id="col7" /><label for="col7">record</label>
+</div>
+
+<div data-role="content">
+<table data-role="table" data-mode="columntoggle" id="mytable" class="jtable">
+<thead><tr>
+<th data-priority="1">timestamp</th>
+<th>host</th>
+<th>action</th>
+<th>beginTS</th>
+<th>endTS</th>
+<th>response</th>
+<th>record</th>
+</tr></thead>
+<tbody id="resultsdata">
+
+</tbody>
+</table>
+</div>
+
+</div>
+
+<span id='nobs'>Records found nobs = </span>
+<div id="foot">
+	<div id="moreButtonWrapper" class="ui-button ui-widget ui-state-default ui-button-text-only">
+		<span id="moreButton" class="ui-button-text">Load More</span>
+	</div>
+</div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="../html/js/jquery-ui-1.10.3.custom.min.js"></script>
+<script src="../html/js/table.js"></script>
+<script src="../html/js/getresults.js"></script>
+
+</body>
+</html>
