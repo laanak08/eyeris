@@ -1,0 +1,15 @@
+<!Doctype html>
+<html>
+<head>
+	{% load static from staticfiles %}
+	<link rel="stylesheet" href="{% static "css/style.css" %}">
+</head>
+<body>
+{% block contents %}
+<!-- either:
+	IRIS query form or
+	results of query
+	-->
+{% endblock %}
+</body>
+</html>

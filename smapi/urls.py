@@ -1,4 +1,4 @@
-from django.conf.urls import patterns, include, url
+from django.conf.urls import patterns, url#, include
 
 from django.contrib import admin
 admin.autodiscover()
@@ -6,10 +6,6 @@ admin.autodiscover()
 from views import QueryPage
 
 urlpatterns = patterns('',
-    # Examples:
-    # url(r'^$', 'smapi.views.home', name='home'),
-    # url(r'^blog/', include('blog.urls')),
-    # url(r'^admin/', include(admin.site.urls)),
-
+    url(r'^$', QueryPage.render_query_page),
     url(r'^test/', QueryPage.render_query_page ),
 )

@@ -1,11 +1,8 @@
-<!Doctype html>
-<html>
-<head>
-</head>
-<body>
-	<form action="/test/" method="post">
+{% extends 'base.html' %}
+
+{% block contents %}
+	<form action="/" method="post">
 		{% csrf_token %}
-		{{ form.as_p }}
+		{{ form.as_ul }}
 	<input type="submit" value="Submit" />
-</body>
-</html>
+{% endblock %}
