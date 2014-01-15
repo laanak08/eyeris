@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* Basic RETS CPM style */
+
+body  {
+	font: 80% Verdana, Arial, Helvetica, sans-serif;
+	background-color: white;
+	color: #000000;
+	margin: 0;
+}
+#container {
+	padding: 0 20px 15px;
+}
+
+h2 {
+	font-weight: normal;
+
+}
+h4 {
+	margin-bottom: 5px;
+}
+
+select, input, textarea { 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 99% 
+}
+img { 
+	border: none;
+}
+a {
+	color:#0033CC;
+	text-decoration: underline;
+}
+a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+em {
+	color: #FF0000;
+}
+
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+.hide {
+	display: none
+}
+
+/* Highlight Stuff */
+.current {
+	background-color:#FFFF99;
+	color: #000000;
+}
+.notcurrent {
+
+}
+.r {
+	text-align: right;
+}
+
+/* TABLE STUFF */
+table.standard {
+	font-family: tahoma,sans-serif;
+	font-size: 8pt;
+	border: 1px solid #CCCCCC;
+}
+table.standard th {
+	/* color: #4C4C4C;*/
+	color: #808080;
+	background-color: #F2F2F2;
+	text-align: left;
+	font-weight: normal;
+	padding: 3px 6px 6px 6px;
+}
+table.standard td {
+	padding: 3px 6px;
+
+}
+tr.oddRow {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+tr.evenRow {
+	background-color: #F9F9F9;
+	color: #000000;
+}
+table.sortable th.Header {
+	cursor: pointer;
+}
+
+/* Form style */
+.mainBtn {
+	font-weight: bold;
+}
+/* SLA meet exceed stuff */
+.meets {
+	background-color: #99FF99;
+	color: #006600;
+}
+.miss {
+	background-color: #FF9999;
+	color: #CC0000;
+}
+.below {
+	background-color: #99FFFF;
+	color: #006699;
+}
+.monospace {
+	font-family: Courier,serif;
+}

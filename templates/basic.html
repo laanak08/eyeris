@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>iris query tool</title>
+	<link rel="stylesheet" href="css/blitzer/jquery-ui-1.10.3.custom.css" />
+	<link rel="stylesheet" href="css/retscpm.css" />
+	<link rel="stylesheet" href="css/cd_admin.css" />
+	<link rel="stylesheet" href="static/css/{{ stylesheet }}" />
+	<script src="js/jquery-1.10.2.min.js"></script>
+	<script src="js/jquery-ui-1.10.3.custom.min.js"></script>
+	<script src="static/js/{{ script }}"></script>
+</head>
+<body>
+	<div data-role="page" id="container">
+		<header id="header">
+			<p id="topNav"><span>Help</span><a id="home"  href="#">Home</a></p>
+			<p id="title"><i>iris</i> query tool</p>
+		</header>
+		<div id="mainContent">
+			{% block body %}
+			{% endblock %}
+		</div>
+		<footer id="footer">
+			<p>@ 2013 Reed Elsevier Technology Services.</p>
+		</footer>
+	</div>
+</body>
+</html>

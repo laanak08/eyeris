@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font: 70% Verdana,Arial,Helvetica,sans-serif;
+	margin: 0 5px;
+	
+	}
+
+form {
+	margin: 0; /* IE fix */
+}
+#container {
+	width: 800px; 
+	background: #FFFFFF;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	border: none;
+	text-align: left;
+} 
+#header { 
+	background: #FFFFFF; 
+	margin: 0 10px;  
+	border-top: 6px solid #004276;
+} 
+#header #topNav {
+	width: 350px;
+	float: right;
+	text-align: right;
+	font-size: 80%;
+	margin: 3px 0 0 0;
+}
+#header #topNav span {
+	padding-right: 5px;
+	border-right: 1px solid #D6D6D6;
+	margin-right: 5px;
+}
+#title {
+	margin: 4px 0;
+	color: #808080;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+#query {
+	margin: 5px;
+	padding: 4px; 
+	    background-color: #E4F3D9;
+    border-radius: 5px 5px 5px 5px;
+    
+	}
+#query p {
+	background-color: white;
+	margin: 3px;
+	padding: 6px;
+	}
+
+#sidebar {
+	float: left; 
+	width: 150px; /* since this element is floated, a width must be given */
+	background-color: white; 
+	padding: 0; 
+}
+#sidebar ul {
+	margin: 12px 0 12px 10px ; 
+	list-style-type: none;
+	padding: 0px;
+}
+#sidebar li {
+	padding: 2px;
+}
+#sidebar li.selected {
+	background-color: #FFA500;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+#sidebar li.selected a {
+	color: #FFFFFF;
+}
+#sidebar ul ol li {
+	font-size: 85%;
+	padding-left: 10px;
+	}
+
+
+.contentMessage {
+        height: 200px;
+        padding: 30px;
+}
+
+#footer { 
+	background:#FFFFFF;
+	clear: both;
+} 
+#footer p {
+	margin: 0; 
+	padding: 10px 0; 
+	color: #898989;
+	font-size: 80%;
+	text-align: left;
+}
+
+/*
+
+	TABLE
+*/
+
+table {
+  margin:      10px;
+
+  border:           thin solid black;
+  caption-side:     bottom;
+  border-collapse:  collapse;
+
+}
+
+td, th {
+  border:           thin dotted gray;
+  padding:          5px;
+}
+/*
+th {
+  background-color: #B8B8B8 ;
+}*/
+
+
+
+
+/*
+	MEDIA PRINT OPTIONS
+*/
+
+@media print {
+#sidebar, #topNav, #footer, div.btns, div.nav {display: none}
+
+#header {border-top: none}
+}
+
+/***  MORE NEW ***/
