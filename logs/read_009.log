@@ -8782,3 +8782,661 @@ INFO:root:Started at: Wed Jan 15 11:08:56 2014
 INFO:root:Ended at: Wed Jan 15 11:09:02 2014
 INFO:root:State read value is 1
 INFO:root:Going to sleep for 293.723711014 seconds
+INFO:root:Processing smapi.cpc2a774.DrsCRM_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 18874
+INFO:root:Processing smapi.cpc2a774.ChasmExec_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 2280
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2a774.AlertsMgr_cert_004.01.15.11.05.00
+INFO:root:Seen this file, starting at 647
+INFO:root:Processing smapi.cpc2a774.AlertsMgr_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 4218
+INFO:root:Processing smapi.cpc2a774.DrsCAOR_cert_002.01.15.11.05.00
+INFO:root:Seen this file, starting at 1595
+INFO:root:Processing smapi.cpc2a774.VCM_cert_004.01.15.10.45.00
+INFO:root:Seen this file, starting at 3935
+INFO:root:Processing smapi.cpc2a774.DrsCOPPS_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 3588
+INFO:root:Processing smapi.cpc2a774.VCM_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 3148
+INFO:root:Processing smapi.cpc2a774.DrsCAOR_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1596
+INFO:root:Processing smapi.cpc2a774.VCM_cert_002.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a774.DrsNotifyOR_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 16982
+INFO:root:Processing smapi.cpc2a774.DrsUPS_cert_001.01.15.11.07.17
+INFO:root:Seen this file, starting at 941
+INFO:root:Processing smapi.cpc2a774.ChasmExec_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a774.AlertsMgr_cert_002.01.15.11.13.02
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a774.DrsLctr_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 4965
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2a774.AlertsMgr_cert_002.01.15.10.43.02
+INFO:root:Seen this file, starting at 28156796
+INFO:root:Processing smapi.cpc2a774.DrsCOR_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 7108
+INFO:root:Processing smapi.cpc2a774.DrsCOLNP_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 7084
+INFO:root:Processing smapi.cpc2a774.DrsCARM_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 3536
+INFO:root:Processing smapi.cpc2a774.DrsMSGRM_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 3861
+INFO:root:Processing smapi.cpc2a774.DrsNotifyRM_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 20345
+INFO:root:Processing smapi.cpc2a774.AlertsOrch_cert_004.01.15.10.55.00
+INFO:root:Seen this file, starting at 2892
+INFO:root:Processing smapi.cpc2a774.AlertsOrch_cert_003.01.15.10.55.00
+INFO:root:Seen this file, starting at 2895
+INFO:root:Processing smapi.cpc2a774.AlertsOrch_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1536
+INFO:root:Processing smapi.cpc2a774.DrsSSA_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1229
+INFO:root:Processing smapi.cpc2a774.DrsMSGOR_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a774.DrsLctr_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a774.ID_dime_smdata_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a774.VCM_cert_003.01.15.10.45.00
+INFO:root:Seen this file, starting at 4808
+INFO:root:Processing smapi.cpc2a774.DrsWFS_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 30030
+INFO:root:Processing smapi.cpc2a774.DrsRA_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 8560
+INFO:root:Processing smapi.cpc2a774.ID_dime_smdata_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 9876
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2a774.DrsList_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 6275
+INFO:root:Processing smapi.cpc2a774.ChasmMonitor_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 2352
+INFO:root:Processing smapi.cpc2a774.DrsCOLNP_cert_002.01.15.10.40.00
+INFO:root:Seen this file, starting at 3722
+INFO:root:Processing smapi.cpc2a774.AlertsMgr_cert_005.01.15.10.40.00
+INFO:root:Seen this file, starting at 3882
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2a774.UsaUds_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 2108
+INFO:root:Processing smapi.cpc2a774.ID_web_collector_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4457
+INFO:root:Processing smapi.cpc2a774.AlertsMgr_cert_005.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a774.AlertsMgr_cert_003.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a774.DrsCOARM_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 8924
+INFO:root:Processing smapi.cpc2a774.DrsUEA_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 2264
+INFO:root:Processing smapi.cpc2a774.DrsDQA_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 6756
+INFO:root:Processing smapi.cpc2a774.AlertsOrch_cert_005.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a774.AlertsOrch_cert_002.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2295.Rosetta_CA_Legal_cert_001.01.15.10.45.53
+INFO:root:Seen this file, starting at 659152
+INFO:root:Processing smapi.cpc2295.Rosetta_UK_Nexisnx_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 13028
+INFO:root:Processing smapi.cpc2295.UKTax_lexispsl_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 10338
+INFO:root:Processing smapi.cpc2295.ID_dime_smdata_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 8145
+INFO:root:Processing smapi.cpc2295.Know_Your_Customer_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 24894
+INFO:root:Processing smapi.cpc2295.Rosetta_FR_Legal_cert_001.01.15.10.41.01
+INFO:root:Seen this file, starting at 91322
+INFO:root:Processing smapi.cpc2295.Rosetta_FR_K4C_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 3800
+INFO:root:Processing smapi.cpc2295.ChasmMonitor_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 388
+INFO:root:Processing smapi.cpc2295.Rosetta_NZ_Legal_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 13102
+INFO:root:Processing smapi.cpc2295.Rosetta_UK_News_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 184627
+INFO:root:Processing smapi.cpc2295.Rosetta_UK_TolleyLibrary_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 6737
+INFO:root:Processing smapi.cpc2295.Rosetta_US_News_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2295.ChasmExec_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2295.Rosetta_US_Academic_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 45444
+INFO:root:Processing smapi.cpc2295.Rosetta_UK_Legal_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 98184
+WARNING:root:ValueError2 dic retry on timestamp=2014/01/15 11:11:16.500;dimeName=ErrorEvent;resource=cpc2295.Rosetta_UK_Legal_cert_001;class=lxnx.sysman.logging.TokenErrorEvent;smLog=com.lxnx.ols.toolkit.appframework.util.LogUtils;recordId=thread_failed;hostName=cpc2295;os=Linux;appName=Rosetta_UK_Legal;gmtOffset=-0500;AssistedSearchNavigation=1.0;BillLibVersion=JavaBillLib;ApplicationToolkit=1.0;IAL=7.0.;customerImpact=null;description=;group=null;null;sendError=never;severity=INF;text=java.lang.String cannot be cast to [Ljava.lang.String%3b%0a------------------------------------------------%0a
+
+WARNING:root:dictionary update sequence element #17 has length 1; 2 is required
+WARNING:root:timestamp=2014/01/15 11:11:16.500
+WARNING:root:dimeName=ErrorEvent
+WARNING:root:resource=cpc2295.Rosetta_UK_Legal_cert_001
+WARNING:root:class=lxnx.sysman.logging.TokenErrorEvent
+WARNING:root:smLog=com.lxnx.ols.toolkit.appframework.util.LogUtils
+WARNING:root:recordId=thread_failed
+WARNING:root:hostName=cpc2295
+WARNING:root:os=Linux
+WARNING:root:appName=Rosetta_UK_Legal
+WARNING:root:gmtOffset=-0500
+WARNING:root:AssistedSearchNavigation=1.0
+WARNING:root:BillLibVersion=JavaBillLib
+WARNING:root:ApplicationToolkit=1.0
+WARNING:root:IAL=7.0.
+WARNING:root:customerImpact=null
+WARNING:root:description=
+WARNING:root:group=null
+WARNING:root:null
+WARNING:root:sendError=never
+WARNING:root:severity=INF
+WARNING:root:text=java.lang.String cannot be cast to [Ljava.lang.String%3b%0a------------------------------------------------%0
+WARNING:root:last characters --%0a.
+INFO:root:Processing smapi.cpc2295.Wsapi_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 17195
+INFO:root:Processing smapi.cpc2295.Rosetta_AU_Legal_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 71538
+INFO:root:Processing smapi.cpc2295.ChasmExec_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 2256
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2295.Rosetta_US_Libraries_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 5328
+INFO:root:Processing smapi.cpc2295.Rosetta_IN_Legal_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 88085
+INFO:root:Processing smapi.cpc2295.Rosetta_MY_Legal_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 66215
+INFO:root:Processing smapi.cpc2295.Rosetta_AT_Legal_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 73818
+INFO:root:Processing smapi.cpc2296.UKTax_lexispsl_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 17586
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2296.Know_Your_Customer_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 8748
+INFO:root:Processing smapi.cpc2296.lexispsl_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 2095
+INFO:root:Processing smapi.cpc2296.Rosetta_US_Academic_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 1788
+INFO:root:Processing smapi.cpc2296.ChasmExec_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 1504
+INFO:root:Processing smapi.cpc2296.ID_dime_smdata_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3226
+INFO:root:Processing smapi.cpc2296.Rosetta_UK_News_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2296.Rosetta_FR_K4C_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2296.PSL_CA_Guidance_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 2936
+INFO:root:Processing smapi.cpc2296.Rosetta_US_News_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 20035
+INFO:root:Processing smapi.cpc2296.Rosetta_AT_Legal_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 17896
+INFO:root:Processing smapi.cpc2296.ChasmMonitor_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 1164
+INFO:root:Processing smapi.cpc2296.Rosetta_IN_Legal_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 3246
+INFO:root:Processing smapi.cpc2296.Lexis360_Corp_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 2624
+INFO:root:Processing smapi.cpc2296.UKTax_lexispsl_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2296.Lexis360_notary_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 12080
+INFO:root:Processing smapi.cpc2296.AP_lexispsl_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 5103
+INFO:root:Processing smapi.cpc2296.Rosetta_AU_Legal_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 11950
+INFO:root:Processing smapi.cpc2296.Rosetta_UK_TolleyLibrary_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2296.NZ_lexispsl_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 15042
+INFO:root:Processing smapi.cpc2296.Rosetta_UK_Nexisnx_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 3408
+INFO:root:Processing smapi.cpc2296.AU_lexispsl_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 14670
+INFO:root:Processing smapi.cpc2296.Rosetta_UK_TolleyLibrary_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 41712
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2296.Rosetta_MY_Legal_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 4898
+INFO:root:Processing smapi.cpc2296.Rosetta_UK_News_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 19512
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2296.Lexis360_publicsector_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 4244
+INFO:root:Processing smapi.cpc2296.Rosetta_NZ_Legal_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2297.UKTax_lexispsl_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 3786
+INFO:root:Processing smapi.cpc2297.Wsapi_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 4908
+INFO:root:Processing smapi.cpc2297.ChasmMonitor_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 1164
+INFO:root:Processing smapi.cpc2297.AP_lexispsl_cert_001.01.15.10.57.00
+INFO:root:Seen this file, starting at 96606
+INFO:root:Processing smapi.cpc2297.Rosetta_UK_News_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 25626
+INFO:root:Processing smapi.cpc2297.lexispsl_cert_001.01.15.10.41.50
+INFO:root:Seen this file, starting at 89167
+INFO:root:Processing smapi.cpc2297.UK_Crawl_Lexispsl_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 7440
+INFO:root:Processing smapi.cpc2297.Rosetta_UK_Legal_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 21550
+INFO:root:Processing smapi.cpc2297.ChasmExec_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 1128
+INFO:root:Processing smapi.cpc2297.Rosetta_UK_Nexisnx_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1060
+INFO:root:Processing smapi.cpc2297.Rosetta_US_News_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 2818
+INFO:root:Processing smapi.cpc2297.NZ_lexispsl_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 14516
+INFO:root:Processing smapi.cpc2297.Rosetta_UK_TolleyLibrary_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 11892
+INFO:root:Processing smapi.cpc2297.AU_lexispsl_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1809
+INFO:root:Processing smapi.cpc2297.PSL_CA_Guidance_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 6174
+INFO:root:Processing smapi.cpc2297.Rosetta_CA_Legal_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 4068
+INFO:root:Processing smapi.cpc2297.Lexis360_publicsector_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 2381
+INFO:root:Processing smapi.cpc2297.Lexis360_notary_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2297.Rosetta_FR_K4C_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2297.Rosetta_MY_Legal_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2297.Lexis360_Corp_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 6212
+INFO:root:Processing smapi.cpc2297.Rosetta_AU_Legal_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 18512
+INFO:root:Processing smapi.cpc2297.Know_Your_Customer_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 77865
+INFO:root:Processing smapi.cpc2297.Rosetta_AT_Legal_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4257
+INFO:root:Processing smapi.cpc2297.ID_dime_smdata_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4864
+INFO:root:Processing smapi.cpc2298.Wsapi_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 3550
+INFO:root:Processing smapi.cpc2298.ChasmExec_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 1504
+INFO:root:Processing smapi.cpc2298.Rosetta_UK_Legal_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 36729
+INFO:root:Processing smapi.cpc2298.Rosetta_CA_Legal_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 15732
+INFO:root:Processing smapi.cpc2298.lexispsl_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 3633
+INFO:root:Processing smapi.cpc2298.Rosetta_UK_TolleyLibrary_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1160
+INFO:root:Processing smapi.cpc2298.Rosetta_US_News_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1006
+INFO:root:Processing smapi.cpc2298.Rosetta_FR_K4C_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1555
+INFO:root:Processing smapi.cpc2298.ID_dime_smdata_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2298.Rosetta_UK_Nexisnx_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2298.Rosetta_UK_News_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2298.Lexis360_publicsector_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1347
+INFO:root:Processing smapi.cpc2298.Lexis360_Corp_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2298.Rosetta_UK_News_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 4776
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2298.Rosetta_UK_Nexisnx_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 3180
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2298.ID_dime_smdata_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 9669
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2298.Rosetta_FR_Legal_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 5022
+INFO:root:Processing smapi.cpc2298.Lexis360_notary_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1259
+INFO:root:Processing smapi.cpc2298.AP_lexispsl_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1067
+INFO:root:Processing smapi.cpc2298.ChasmMonitor_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 388
+INFO:root:Processing smapi.cpc2299.Rosetta_UK_News_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 14442
+INFO:root:Processing smapi.cpc2299.ChasmExec_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2299.UKTax_lexispsl_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2299.Rosetta_UK_Nexisnx_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2299.lexispsl_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 8125
+INFO:root:Processing smapi.cpc2299.Rosetta_UK_Legal_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 27985
+INFO:root:Processing smapi.cpc2299.Rosetta_AT_Legal_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4524
+INFO:root:Processing smapi.cpc2299.Rosetta_FR_Legal_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 17855
+INFO:root:Processing smapi.cpc2299.Rosetta_CA_Legal_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 6164
+INFO:root:Processing smapi.cpc2299.ID_dime_smdata_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4825
+INFO:root:Processing smapi.cpc2299.Rosetta_UK_TolleyLibrary_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1386
+INFO:root:Processing smapi.cpc2299.Rosetta_NZ_Legal_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 8180
+INFO:root:Processing smapi.cpc2299.ChasmMonitor_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 1552
+INFO:root:Processing smapi.cpc2290.ChasmExec_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 1128
+INFO:root:Processing smapi.cpc2290.ID_dime_smdata_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1591
+INFO:root:Processing smapi.cpc2290.ChasmMonitor_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 1164
+INFO:root:Processing smapi.cpc2291.ID_dime_smdata_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 6381
+INFO:root:Processing smapi.cpc2291.ChasmMonitor_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 388
+INFO:root:Processing smapi.cpc2291.ChasmExec_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 376
+INFO:root:Processing smapi.cpc2292.ChasmExec_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 376
+INFO:root:Processing smapi.cpc2292.ChasmMonitor_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2292.ID_dime_smdata_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2293.lexispsl_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 41870
+INFO:root:Processing smapi.cpc2293.Wsapi_cert_001.01.15.10.48.17
+INFO:root:Seen this file, starting at 2453969
+INFO:root:Processing smapi.cpc2293.Rosetta_UK_Legal_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 19456
+INFO:root:Processing smapi.cpc2293.Rosetta_US_News_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 17292
+INFO:root:Processing smapi.cpc2293.AU_lexispsl_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 2432
+INFO:root:Processing smapi.cpc2293.Rosetta_UK_News_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2293.UKTax_lexispsl_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2293.ChasmExec_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2293.Rosetta_UK_Nexisnx_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2293.Rosetta_UK_TolleyLibrary_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 12256
+INFO:root:Processing smapi.cpc2293.Rosetta_FR_Legal_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 24092
+INFO:root:Processing smapi.cpc2293.Rosetta_AT_Legal_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 21515
+INFO:root:Processing smapi.cpc2293.AP_lexispsl_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2293.ChasmMonitor_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 1940
+INFO:root:Processing smapi.cpc2293.Rosetta_NZ_Legal_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 23217
+INFO:root:Processing smapi.cpc2293.UK_Crawl_Lexispsl_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 1260
+INFO:root:Processing smapi.cpc2293.PSL_CA_Guidance_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 7758
+INFO:root:Processing smapi.cpc2293.Rosetta_MY_Legal_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 17676
+INFO:root:Processing smapi.cpc2293.Rosetta_CA_Legal_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 14280
+INFO:root:Processing smapi.cpc2293.Rosetta_IN_Legal_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 14762
+INFO:root:Processing smapi.cpc2293.NZ_lexispsl_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2293.AP_lexispsl_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 4500
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2293.ID_dime_smdata_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 9761
+INFO:root:Processing smapi.cpc2293.UKTax_lexispsl_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 20364
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2293.NZ_lexispsl_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 12462
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2293.Rosetta_AU_Legal_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 25705
+INFO:root:Processing smapi.cpc2293.Lexis360_publicsector_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 5760
+INFO:root:Processing smapi.cpc2294.ChasmExec_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2294.PSL_CA_Guidance_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 16848
+INFO:root:Processing smapi.cpc2294.AU_lexispsl_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 10840
+INFO:root:Processing smapi.cpc2294.Know_Your_Customer_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 9056
+INFO:root:Processing smapi.cpc2294.UK_Crawl_Lexispsl_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3122
+INFO:root:Processing smapi.cpc2294.ID_dime_smdata_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2294.ChasmMonitor_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 2328
+INFO:root:Processing smapi.cpc2294.Rosetta_UK_Legal_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 25865
+INFO:root:Processing smapi.cpc2294.AP_lexispsl_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 8920
+INFO:root:Processing smapi.cpc2294.UKTax_lexispsl_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 10148
+INFO:root:Processing smapi.cpc2294.lexispsl_cert_001.01.15.10.55.06
+INFO:root:Seen this file, starting at 5267
+INFO:root:Processing smapi.cpc2294.Rosetta_UK_News_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 9570
+INFO:root:Processing smapi.cpc2294.NZ_lexispsl_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1362
+INFO:root:Processing smapi.cpc2294.Lexis360_publicsector_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3680
+INFO:root:Processing smapi.cpc2294.Rosetta_CA_Legal_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1461
+INFO:root:Processing smapi.cpc22691.ChasmExec_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 760
+INFO:root:Processing smapi.cpc22691.Gap_cert4_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 8220
+INFO:root:Processing smapi.cpc22691.ID_web_collector_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 5976
+INFO:root:Processing smapi.cpc22691.DAS_cert4_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 2128
+INFO:root:Processing smapi.cpc22691.qds_dfe_cert4_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1679
+INFO:root:Processing smapi.cpc22691.FAS_cert4_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22691.SDS_cert4_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 14178
+INFO:root:Processing smapi.cpc22691.qds_jfmtr_cert4_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 2862
+INFO:root:Processing smapi.cpc22691.qds_fax_cert4_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22691.qds_fop_cert4_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 2730
+INFO:root:Processing smapi.cpc22691.UIS_cert4_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 27237
+INFO:root:Processing smapi.cpc22691.CLS_cert4_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 3169
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc22691.IMS_cert4_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 8238
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc22691.JCite_cert4_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 13749
+INFO:root:Processing smapi.cpc22691.ChasmMonitor_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 392
+INFO:root:Processing smapi.cpc22691.ID_dime_smdata_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22691.CLS_cert4_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22691.CheckCiteService_cert4_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22691.rs_cert4_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22691.IMS_cert4_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22692.ChasmMonitor_cert_001.01.15.10.46.19
+INFO:root:Seen this file, starting at 2424
+INFO:root:Processing smapi.cpc22692.qds_fop_cert12_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 1832
+INFO:root:Processing smapi.cpc22692.qds_fax_cert12_001.01.15.10.53.43
+INFO:root:Seen this file, starting at 2963
+INFO:root:Processing smapi.cpc22692.UIS_cert12_001.01.15.10.57.00
+INFO:root:Seen this file, starting at 232821
+INFO:root:Processing smapi.cpc22692.IMS_cert12_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 7888
+INFO:root:Processing smapi.cpc22692.CLS_cert12_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3910
+INFO:root:Processing smapi.cpc22692.ChasmExec_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 380
+INFO:root:Processing smapi.cpc22692.qds_dfe_cert12_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 6400
+INFO:root:Processing smapi.cpc22692.rs_cert12_001.01.15.11.06.27
+INFO:root:Seen this file, starting at 10000
+INFO:root:Processing smapi.cpc22692.SAS_cert12_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22692.Gap_cert12_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22692.DAS_cert12_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 6750
+INFO:root:Processing smapi.cpc22692.FAS_cert12_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 11880
+INFO:root:Processing smapi.cpc22692.qds_jfmtr_cert12_001.01.15.10.50.51
+INFO:root:Seen this file, starting at 7245
+INFO:root:Processing smapi.cpc22692.SDS_cert12_001.01.15.10.41.30
+INFO:root:Seen this file, starting at 104056
+INFO:root:Processing smapi.cpc22692.XFS_cert12_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 8343
+INFO:root:Processing smapi.cpc22692.ID_web_collector_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4483
+INFO:root:Processing smapi.cpc22692.ID_dime_smdata_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4904
+INFO:root:Processing smapi.cpc22692.JCite_cert12_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 13434
+INFO:root:Processing smapi.cpc22692.CDS_cert12_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 17608
+INFO:root:Processing smapi.cpc22692.Gap_cert12_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 824
+INFO:root:Processing smapi.cpc22692.SDS_cert12_001.01.15.11.11.45
+INFO:root:New file
+INFO:root:Processing smapi.cpc22692.CheckCiteService_cert12_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 34590
+INFO:root:Processing smapi.cpc22694.Gap_cert14_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22694.SDS_cert14_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22694.Gap_cert14_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 48826
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc22694.CLS_cert14_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 6193
+INFO:root:Processing smapi.cpc22694.Gap_cert14_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 32554
+INFO:root:Processing smapi.cpc22694.qds_dfe_cert14_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 9076
+INFO:root:Processing smapi.cpc22694.qds_fax_cert14_001.01.15.10.51.32
+INFO:root:Seen this file, starting at 2477
+INFO:root:Processing smapi.cpc22694.qds_fop_cert14_002.01.15.10.55.00
+INFO:root:Seen this file, starting at 1374
+INFO:root:Processing smapi.cpc22694.ChasmMonitor_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 784
+INFO:root:Processing smapi.cpc22694.rs_cert14_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 2973
+INFO:root:Processing smapi.cpc22694.UIS_cert14_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 18348
+INFO:root:Processing smapi.cpc22694.CheckCiteService_cert14_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 935
+INFO:root:Processing smapi.cpc22694.qds_fop_cert14_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 458
+INFO:root:Processing smapi.cpc22694.FAS_cert14_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 856
+INFO:root:Processing smapi.cpc22694.ChasmExec_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 2280
+INFO:root:Processing smapi.cpc22694.qds_jfmtr_cert14_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 3798
+INFO:root:Processing smapi.cpc22694.DAS_cert14_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 3210
+INFO:root:Processing smapi.cpc22694.IMS_cert14_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1916
+INFO:root:Processing smapi.cpc22694.ID_web_collector_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 2987
+INFO:root:Processing smapi.cpc22694.ID_dime_smdata_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 9701
+INFO:root:Processing smapi.cpc22644.DrsCOLNP_cert_002.01.15.10.55.00
+INFO:root:Seen this file, starting at 5314
+INFO:root:Processing smapi.cpc22644.VCM_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 13265
+INFO:root:Processing smapi.cpc22644.DrsNotifyRM_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22644.DrsCAOR_cert_002.01.15.10.55.00
+INFO:root:Seen this file, starting at 4800
+INFO:root:Processing smapi.cpc22644.DrsLctr_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1748
+INFO:root:Processing smapi.cpc22644.AlertsMgr_cert_002.01.15.11.11.18
+INFO:root:New file
+INFO:root:Processing smapi.cpc22644.AlertsMgr_cert_002.01.15.10.40.00
+INFO:root:Seen this file, starting at 23529
+INFO:root:Processing smapi.cpc22644.UsaUds_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 4290
+INFO:root:Processing smapi.cpc22644.DrsCAOR_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4798
+INFO:root:Processing smapi.cpc22644.DrsNotifyOR_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 6078
+INFO:root:Processing smapi.cpc22644.DrsCOR_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3556
+INFO:root:Processing smapi.cpc22644.ChasmMonitor_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22644.AlertsMgr_cert_003.01.15.11.05.00
+INFO:root:Seen this file, starting at 647
+INFO:root:Processing smapi.cpc22644.DrsCOARM_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 8615
+INFO:root:Processing smapi.cpc22644.AlertsOrch_cert_004.01.15.10.45.00
+INFO:root:Seen this file, starting at 4820
+INFO:root:Processing smapi.cpc22644.AlertsOrch_cert_003.01.15.10.45.00
+INFO:root:Seen this file, starting at 4820
+INFO:root:Processing smapi.cpc22644.DrsUEA_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 2940
+INFO:root:Processing smapi.cpc22644.DrsCARM_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 2592
+INFO:root:Processing smapi.cpc22644.DrsRA_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 9254
+INFO:root:Processing smapi.cpc22644.DrsListAdm_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 1200
+INFO:root:Processing smapi.cpc22644.AlertsOrch_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4989
+INFO:root:Processing smapi.cpc22644.DrsSSA_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3541
+INFO:root:Processing smapi.cpc22644.DrsList_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22644.DrsMSGOR_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 5876
+INFO:root:Processing smapi.cpc22644.DrsCOLNP_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 7074
+INFO:root:Processing smapi.cpc22644.ID_web_collector_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4456
+INFO:root:Processing smapi.cpc22644.DrsDQA_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 5118
+INFO:root:Processing smapi.cpc22644.DrsCRM_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 13944
+INFO:root:Processing smapi.cpc22644.AlertsMgr_cert_005.01.15.11.00.00
+INFO:root:Seen this file, starting at 1294
+INFO:root:Processing smapi.cpc22644.ID_dime_smdata_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3233
+INFO:root:Processing smapi.cpc22644.DrsWFS_cert_001.01.15.11.00.06
+INFO:root:Seen this file, starting at 6692
+INFO:root:Processing smapi.cpc22644.AlertsMgr_cert_004.01.15.10.50.00
+INFO:root:Seen this file, starting at 2588
+INFO:root:Processing smapi.cpc22644.AlertsOrch_cert_005.01.15.10.50.00
+INFO:root:Seen this file, starting at 3656
+INFO:root:Processing smapi.cpc22644.DrsMSGRM_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 5148
+INFO:root:Processing smapi.cpc22644.ChasmExec_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 1520
+INFO:root:Processing smapi.cpc22644.DrsCOPPS_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 3356
+INFO:root:Processing smapi.cpc22644.DrsUPS_cert_001.01.15.10.55.27
+INFO:root:Seen this file, starting at 12228
+INFO:root:Processing smapi.cpc22644.AlertsMgr_cert_001.01.15.11.03.17
+INFO:root:Seen this file, starting at 4135
+INFO:root:Processing smapi.cpc22644.AlertsOrch_cert_002.01.15.11.05.00
+INFO:root:Seen this file, starting at 1015
+INFO:root:Total time was: 6.02233 seconds records: 11381  Kbytes: 6993 Files: 288
+INFO:root:Total time was: 0.100372 minutes
+INFO:root:Started at: Wed Jan 15 11:13:56 2014
+INFO:root:Ended at: Wed Jan 15 11:14:02 2014
+INFO:root:State read value is 1
+INFO:root:Going to sleep for 293.960192919 seconds

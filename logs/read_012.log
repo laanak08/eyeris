@@ -1671,3 +1671,91 @@ INFO:root:Started at: Wed Jan 15 11:09:14 2014
 INFO:root:Ended at: Wed Jan 15 11:09:15 2014
 INFO:root:State read value is 1
 INFO:root:Going to sleep for 299.58931613 seconds
+INFO:root:Processing smapi.CNTD3BWEB92J.LexisAdvance_0.01.15.11.01.34
+INFO:root:Seen this file, starting at 27646
+INFO:root:Processing smapi.CNTD3BWEB92J.LexisAdvance_2.01.15.11.01.34
+INFO:root:Seen this file, starting at 26926
+INFO:root:Processing smapi.CNTD3BWEB92P.LexisAdvance_2.01.15.11.00.55
+INFO:root:Seen this file, starting at 2856
+INFO:root:Processing smapi.CNTD3BWEB92V.LexisAdvance_1.01.15.11.06.35
+INFO:root:New file
+INFO:root:Processing smapi.CNTD3BWEB92W.LexisAdvance_1.01.15.11.03.42
+INFO:root:Seen this file, starting at 1077
+INFO:root:Processing smapi.CNTD3BWEB109A.LMO_BIS.01.15.10.54.07
+INFO:root:Seen this file, starting at 2208
+INFO:root:Processing smapi.CNTD3BWEB106I.LexisAdvanceAppFmtr_0.01.15.10.45.39
+INFO:root:Seen this file, starting at 3044
+INFO:root:Processing smapi.CNTD3BWEB92W.LexisAdvance_2.01.15.11.03.42
+INFO:root:Seen this file, starting at 553
+INFO:root:Processing smapi.CNTD3BWEB92W.LexisAdvance_0.01.15.11.03.42
+INFO:root:Seen this file, starting at 421
+INFO:root:Processing smapi.CNTD3BWEB92Q.LexisAdvance_2.01.15.11.04.09
+INFO:root:Seen this file, starting at 1027
+INFO:root:Processing smapi.CNTD3BWEB92P.LexisAdvance_1.01.15.11.00.55
+INFO:root:Seen this file, starting at 1723
+INFO:root:Processing smapi.CNTD3BWEB109B.LMO_LA.01.15.10.42.11
+INFO:root:Seen this file, starting at 11419
+INFO:root:Processing smapi.CNTD3BWEB109D.LMO_LA.01.15.10.51.42
+INFO:root:Seen this file, starting at 99915
+INFO:root:Processing smapi.CNTD3BWEB109D.Lca_0.01.15.10.50.13
+INFO:root:Seen this file, starting at 1265
+INFO:root:Processing smapi.CNTD3BWEB92B.LexisAdvance_2.01.15.11.01.32
+INFO:root:Seen this file, starting at 3815
+INFO:root:Processing smapi.CNTD3BWEB92C.LexisAdvance_1.01.15.11.00.37
+INFO:root:Seen this file, starting at 1877
+INFO:root:Processing smapi.CNTD3BWEB92X.LexisAdvance_2.01.15.11.02.39
+INFO:root:Seen this file, starting at 4649
+INFO:root:Processing smapi.CNTD3BWEB92D.LexisAdvance_1.01.15.11.00.14
+INFO:root:Seen this file, starting at 7026
+INFO:root:Processing smapi.CNTD3BWEB92B.LexisAdvance_1.01.15.11.01.32
+INFO:root:Seen this file, starting at 14242
+INFO:root:Processing smapi.CNTD3BWEB92B.LexisAdvance_0.01.15.11.01.32
+INFO:root:Seen this file, starting at 11320
+INFO:root:Processing smapi.CNTD3BWEB92V.LexisAdvance_2.01.15.11.06.35
+INFO:root:New file
+INFO:root:Processing smapi.CNTD3BWEB92C.LexisAdvance_0.01.15.11.00.37
+INFO:root:Seen this file, starting at 1950
+INFO:root:Processing smapi.CNTD3BWEB92A.LexisAdvance_2.01.15.11.00.01
+INFO:root:Seen this file, starting at 2819
+INFO:root:Processing smapi.CNTD3BWEB92X.LexisAdvance_0.01.15.11.02.39
+INFO:root:Seen this file, starting at 1495
+INFO:root:Processing smapi.CNTD3BWEB92J.LexisAdvance_1.01.15.11.01.34
+INFO:root:Seen this file, starting at 24968
+INFO:root:Processing smapi.CNTD3BWEB109C.LMO_LA.01.15.10.44.05
+INFO:root:Seen this file, starting at 18840
+INFO:root:Processing smapi.CNTD3BWEB92Q.LexisAdvance_1.01.15.11.04.09
+INFO:root:Seen this file, starting at 1793
+INFO:root:Processing smapi.CNTD3BWEB92D.LexisAdvance_0.01.15.11.00.14
+INFO:root:Seen this file, starting at 7332
+INFO:root:Processing smapi.CNTD3BWEB92D.LexisAdvance_2.01.15.11.00.14
+INFO:root:Seen this file, starting at 8678
+INFO:root:Processing smapi.CNTD3BWEB106A.LexisAdvanceFirstConsult_0.01.15.11.03.35
+INFO:root:Seen this file, starting at 1470
+INFO:root:Processing smapi.CNTD3BWEB100A.AssistedSearch.01.15.10.46.35
+INFO:root:Seen this file, starting at 1874
+INFO:root:Processing smapi.CNTD3BWEB92P.LexisAdvance_0.01.15.11.00.55
+INFO:root:Seen this file, starting at 3504
+INFO:root:Processing smapi.CNTD3BWEB92A.LexisAdvance_1.01.15.11.00.01
+INFO:root:Seen this file, starting at 4730
+INFO:root:Processing smapi.CNTD3BWEB106T.LexisAdvanceAppFmtr_0.01.15.11.05.18
+INFO:root:New file
+INFO:root:Processing smapi.CNTD3BWEB109A.LMO_LA.01.15.11.02.08
+INFO:root:Seen this file, starting at 3533
+INFO:root:Processing smapi.CNTD3BWEB100A.AssistedSearch.01.15.10.47.56
+INFO:root:Seen this file, starting at 333416
+INFO:root:Processing smapi.CNTD3BWEB92A.LexisAdvance_0.01.15.11.00.01
+INFO:root:Seen this file, starting at 12398
+INFO:root:Processing smapi.CNTD3BWEB92X.LexisAdvance_1.01.15.11.02.39
+INFO:root:Seen this file, starting at 5050
+INFO:root:Processing smapi.CNTD3BWEB92Q.LexisAdvance_0.01.15.11.04.09
+INFO:root:Seen this file, starting at 893
+INFO:root:Processing smapi.CNTD3BWEB92C.LexisAdvance_2.01.15.11.00.37
+INFO:root:Seen this file, starting at 972
+INFO:root:Processing smapi.CNTD3BWEB92V.LexisAdvance_0.01.15.11.06.35
+INFO:root:New file
+INFO:root:Total time was: 1.64355 seconds records: 221  Kbytes: 267 Files: 41
+INFO:root:Total time was: 0.0273925 minutes
+INFO:root:Started at: Wed Jan 15 11:14:15 2014
+INFO:root:Ended at: Wed Jan 15 11:14:16 2014
+INFO:root:State read value is 1
+INFO:root:Going to sleep for 298.347774029 seconds

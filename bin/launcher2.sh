@@ -1,6 +1,7 @@
 #!/bin/bash
 #for COPY in '003' '004' '009' '010' '011' '017' '018' 
-for COPY in '003' '004' '009' '010' '011' '012' '013' '005'
+#for COPY in '003' '004' '009' '010' '011' '012' '013' '005'
+for COPY in '003' '004' '009' '010' '011' '012' '017'
 do
 	echo 1 > /cpm/projects/smapi/state/state_${COPY}.txt
 	echo "Starting copy ${COPY}"

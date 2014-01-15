@@ -1,9 +1,9 @@
 manage.py
-data
-logs
-bin
+data/
+logs/
+bin/
 basic.cfg
 basic.cfg.bk
-cgi-bin
-state
+cgi-bin/
+state/
 basic.cfg.15Jan

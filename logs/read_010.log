@@ -6025,3 +6025,451 @@ INFO:root:Started at: Wed Jan 15 11:09:02 2014
 INFO:root:Ended at: Wed Jan 15 11:09:06 2014
 INFO:root:State read value is 1
 INFO:root:Going to sleep for 296.796689987 seconds
+INFO:root:Processing smapi.cpc2a775.ID_web_collector_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1485
+INFO:root:Processing smapi.cpc2a775.AlertsMgr_cert_002.01.15.11.11.18
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a775.AlertsMgr_cert_001.01.15.10.51.14
+INFO:root:Seen this file, starting at 11010
+INFO:root:Processing smapi.cpc2a775.DrsUPS_cert_001.01.15.10.54.32
+INFO:root:Seen this file, starting at 34271
+INFO:root:Processing smapi.cpc2a775.DrsMSGRM_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 3861
+INFO:root:Processing smapi.cpc2a775.DrsSSA_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1159
+INFO:root:Processing smapi.cpc2a775.DrsCARM_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 983
+INFO:root:Processing smapi.cpc2a775.DrsCOR_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a775.VCM_cert_003.01.15.10.40.00
+INFO:root:Seen this file, starting at 5597
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2a775.VCM_cert_004.01.15.10.45.00
+INFO:root:Seen this file, starting at 3935
+INFO:root:Processing smapi.cpc2a775.ChasmExec_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 1140
+INFO:root:Processing smapi.cpc2a775.DrsWFS_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 11660
+INFO:root:Processing smapi.cpc2a775.DrsList_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1255
+INFO:root:Processing smapi.cpc2a775.DrsListAdm_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 400
+INFO:root:Processing smapi.cpc2a775.UsaUds_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1120
+INFO:root:Processing smapi.cpc2a775.DrsLctr_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a775.ChasmMonitor_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 2352
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2a775.DrsCRM_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 27678
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2a775.AlertsMgr_cert_002.01.15.10.40.00
+INFO:root:Seen this file, starting at 22697
+INFO:root:Processing smapi.cpc2a775.VCM_cert_002.01.15.10.45.00
+INFO:root:Seen this file, starting at 3935
+INFO:root:Processing smapi.cpc2a775.DrsCOARM_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 7245
+INFO:root:Processing smapi.cpc2a775.AlertsOrch_cert_002.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a775.AlertsOrch_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a775.ChasmMonitor_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a775.DrsCRM_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a775.DrsNotifyRM_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 20345
+INFO:root:Processing smapi.cpc2a775.AlertsOrch_cert_003.01.15.10.45.00
+INFO:root:Seen this file, starting at 5075
+INFO:root:Processing smapi.cpc2a775.ID_dime_smdata_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 8080
+INFO:root:Processing smapi.cpc2a775.DrsCOPPS_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 3588
+INFO:root:Processing smapi.cpc2a775.DrsCOLNP_cert_002.01.15.10.50.00
+INFO:root:Seen this file, starting at 7078
+INFO:root:Processing smapi.cpc2a775.DrsCOLNP_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a775.DrsNotifyOR_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 15316
+INFO:root:Processing smapi.cpc2a775.AlertsMgr_cert_005.01.15.10.50.00
+INFO:root:Seen this file, starting at 2588
+INFO:root:Processing smapi.cpc2a775.AlertsMgr_cert_003.01.15.10.50.00
+INFO:root:Seen this file, starting at 2588
+INFO:root:Processing smapi.cpc2a775.DrsRA_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 6262
+INFO:root:Processing smapi.cpc2a775.AlertsMgr_cert_004.01.15.10.55.00
+INFO:root:Seen this file, starting at 1941
+INFO:root:Processing smapi.cpc2a775.DrsMSGOR_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1966
+INFO:root:Processing smapi.cpc2a775.DrsDQA_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3348
+INFO:root:Processing smapi.cpc2a775.VCM_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 4722
+INFO:root:Processing smapi.cpc2a775.DrsCOR_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 10656
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2a775.AlertsOrch_cert_005.01.15.11.00.00
+INFO:root:Seen this file, starting at 2030
+INFO:root:Processing smapi.cpc2a775.DrsCAOR_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3226
+INFO:root:Processing smapi.cpc2a775.VCM_cert_003.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc2a775.AlertsOrch_cert_004.01.15.10.40.00
+INFO:root:Seen this file, starting at 6090
+INFO:root:Processing smapi.cpc2a775.DrsCAOR_cert_002.01.15.10.40.00
+INFO:root:Seen this file, starting at 9603
+INFO:root:Processing smapi.cpc2a775.AlertsOrch_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 10033
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc2236.ols_cert11_TotalPatent_002.01.15.10.40.00
+INFO:root:Seen this file, starting at 15594
+INFO:root:Processing smapi.cpc2236.ols_cert11_LNP_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 133644
+INFO:root:Processing smapi.cpc2236.ols_cert11_shepardsbriefcheck_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 3048
+INFO:root:Processing smapi.cpc2236.ChasmXMLAgent_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 2708
+INFO:root:Processing smapi.cpc2236.ols_cert11_iws.01.15.10.55.00
+INFO:root:Seen this file, starting at 32613
+INFO:root:Processing smapi.cpc2236.ols_cert11_US_lexispsl.01.15.10.40.00
+INFO:root:Seen this file, starting at 4128
+INFO:root:Processing smapi.cpc2236.ChasmMonitor_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 1552
+INFO:root:Processing smapi.cpc2236.ID_dime_smdata_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4848
+INFO:root:Processing smapi.cpc2236.ols_cert11_LDC_002.01.15.11.05.00
+INFO:root:Seen this file, starting at 3717
+INFO:root:Processing smapi.cpc2236.ChasmExec_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 376
+INFO:root:Processing smapi.cpc2236.ols_cert11_LDC_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 2287
+INFO:root:Processing smapi.cpc2236.ols_cert11_lnas.01.15.10.40.00
+INFO:root:Seen this file, starting at 10788
+INFO:root:Processing smapi.cpc2236.ols_cert11_ctgap_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 2510
+INFO:root:Processing smapi.cpc2236.ols_cert11_NewPowerInvoice.01.15.10.45.00
+INFO:root:Seen this file, starting at 2995
+INFO:root:Processing smapi.cpc2236.ols_cert11_SmartWatchJSRD_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 15130
+INFO:root:Processing smapi.cpc2236.ols_cert11_TotalPatent_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 26106
+INFO:root:Processing smapi.cpc2236.ols_cert11_PowerInvoice.01.15.10.55.00
+INFO:root:Seen this file, starting at 8169
+INFO:root:Processing smapi.cpc2236.ols_cert11_dossier_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 1476
+INFO:root:Processing smapi.cpc22690.SDS_cert1_001.01.15.10.51.29
+INFO:root:Seen this file, starting at 247496
+INFO:root:Processing smapi.cpc22690.ChasmExec_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 380
+INFO:root:Processing smapi.cpc22690.ID_dime_smdata_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22690.UIS_cert1_001.01.15.11.11.22
+INFO:root:New file
+INFO:root:Processing smapi.cpc22690.UIS_cert1_001.01.15.10.41.18
+INFO:root:Seen this file, starting at 609939
+INFO:root:Processing smapi.cpc22690.DAS_cert1_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4767
+INFO:root:Processing smapi.cpc22690.qds_fop_cert1_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 3042
+INFO:root:Processing smapi.cpc22690.ID_dime_smdata_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 9830
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc22690.qds_dfe_cert1_001.01.15.10.49.09
+INFO:root:Seen this file, starting at 46866
+INFO:root:Processing smapi.cpc22690.ChasmMonitor_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 1568
+INFO:root:Processing smapi.cpc22690.CDS_cert1_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 25780
+INFO:root:Processing smapi.cpc22690.SAS_cert1_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 10143
+INFO:root:Processing smapi.cpc22690.CLS_cert1_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 4114
+INFO:root:Processing smapi.cpc22690.Gap_cert1_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 43624
+INFO:root:Processing smapi.cpc22690.FAS_cert1_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 2653
+INFO:root:Processing smapi.cpc22690.CDS_cert1_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 6445
+INFO:root:Processing smapi.cpc22690.JCite_cert1_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 5674
+INFO:root:Processing smapi.cpc22690.CheckCiteService_cert1_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 17827
+INFO:root:Processing smapi.cpc22690.XFS_cert1_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 62751
+INFO:root:Processing smapi.cpc22690.qds_fax_cert1_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 3216
+INFO:root:Processing smapi.cpc22690.rs_cert1_001.01.15.10.55.05
+INFO:root:Seen this file, starting at 71309
+INFO:root:Processing smapi.cpc22690.IMS_cert1_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 5050
+INFO:root:Processing smapi.cpc22690.ID_web_collector_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 5976
+INFO:root:Processing smapi.cpc22690.qds_jfmtr_cert1_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 6240
+INFO:root:Processing smapi.cpc22645.DrsMSGRM_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 7722
+INFO:root:Processing smapi.cpc22645.VCM_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 3935
+INFO:root:Processing smapi.cpc22645.DrsDQA_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 6844
+INFO:root:Processing smapi.cpc22645.DrsCOLNP_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 7080
+INFO:root:Processing smapi.cpc22645.ID_dime_smdata_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 6469
+INFO:root:Processing smapi.cpc22645.DrsCRM_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 18848
+INFO:root:Processing smapi.cpc22645.DrsRA_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 6848
+INFO:root:Processing smapi.cpc22645.DrsCAOR_cert_002.01.15.11.05.00
+INFO:root:Seen this file, starting at 1528
+INFO:root:Processing smapi.cpc22645.DrsListAdm_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22645.AlertsMgr_cert_004.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22645.DrsListAdm_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 2400
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc22645.DrsMSGOR_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 5878
+INFO:root:Processing smapi.cpc22645.DrsCOR_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 7106
+INFO:root:Processing smapi.cpc22645.DrsSSA_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 2558
+INFO:root:Processing smapi.cpc22645.DrsList_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3604
+INFO:root:Processing smapi.cpc22645.AlertsOrch_cert_002.01.15.11.00.00
+INFO:root:Seen this file, starting at 1826
+INFO:root:Processing smapi.cpc22645.DrsCOLNP_cert_002.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22645.AlertsMgr_cert_002.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22645.AlertsMgr_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22645.UsaUds_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 4680
+INFO:root:Processing smapi.cpc22645.DrsLctr_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 5058
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc22645.DrsCOARM_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 13032
+INFO:root:Processing smapi.cpc22645.DrsCOPPS_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1624
+INFO:root:Processing smapi.cpc22645.DrsCAOR_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3196
+INFO:root:Processing smapi.cpc22645.DrsUPS_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 73017
+INFO:root:Processing smapi.cpc22645.AlertsOrch_cert_004.01.15.10.45.00
+INFO:root:Seen this file, starting at 5075
+INFO:root:Processing smapi.cpc22645.ID_web_collector_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 8910
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc22645.AlertsOrch_cert_003.01.15.10.45.00
+INFO:root:Seen this file, starting at 5075
+INFO:root:Processing smapi.cpc22645.AlertsOrch_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 8319
+INFO:root:Processing smapi.cpc22645.DrsCARM_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 2704
+INFO:root:Processing smapi.cpc22645.DrsNotifyRM_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 7918
+INFO:root:Processing smapi.cpc22645.AlertsMgr_cert_005.01.15.11.00.00
+INFO:root:Seen this file, starting at 1294
+INFO:root:Processing smapi.cpc22645.DrsNotifyOR_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 6074
+INFO:root:Processing smapi.cpc22645.AlertsMgr_cert_003.01.15.11.00.00
+INFO:root:Seen this file, starting at 1294
+INFO:root:Processing smapi.cpc22645.ChasmMonitor_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 392
+INFO:root:Processing smapi.cpc22645.DrsUEA_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 588
+INFO:root:Processing smapi.cpc22645.DrsLctr_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22645.ID_web_collector_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22645.DrsWFS_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 24027
+INFO:root:Processing smapi.cpc22645.ChasmExec_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22645.AlertsOrch_cert_005.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc22645.DrsUPS_cert_001.01.15.11.10.20
+INFO:root:New file
+INFO:root:Processing smapi.cpc222731.DrsAnltx_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 9341
+INFO:root:Processing smapi.cpc222731.DrsToc_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc222731.DrsRetr_cert_002.01.15.11.00.00
+INFO:root:Seen this file, starting at 9496
+INFO:root:Processing smapi.cpc222731.DrsJCite_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 9276
+INFO:root:Processing smapi.cpc222731.DrsRetr_cert_004.01.15.11.00.00
+INFO:root:Seen this file, starting at 10647
+INFO:root:Processing smapi.cpc222731.DrsSrch_cert_002.01.15.10.45.00
+INFO:root:Seen this file, starting at 18848
+INFO:root:Processing smapi.cpc222731.DrsSrch_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 36054
+INFO:root:Processing smapi.cpc222731.DrsShpdCacheWarmup_cert_001.01.15.11.11.33
+INFO:root:New file
+INFO:root:Processing smapi.cpc222731.DrsRetr_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 33298
+INFO:root:Processing smapi.cpc222731.DrsLapi_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 6230
+INFO:root:Processing smapi.cpc222731.ID_dime_smdata_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 6466
+INFO:root:Processing smapi.cpc222731.DrsCp_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 2073
+INFO:root:Processing smapi.cpc222731.DrsMprxy_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 2142
+INFO:root:Processing smapi.cpc222731.DrsShpd_cert_001.01.15.11.01.07
+INFO:root:Seen this file, starting at 6330
+INFO:root:Processing smapi.cpc222731.DrsJCite_cert_003.01.15.11.01.07
+INFO:root:Seen this file, starting at 4474
+INFO:root:Processing smapi.cpc222731.DrsToc_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 12232
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc222731.DrsJCite_cert_002.01.15.10.40.00
+INFO:root:Seen this file, starting at 13781
+INFO:root:Processing smapi.cpc222731.DrsShpdCacheWarmup_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 10642
+INFO:root:Processing smapi.cpc222731.DrsInstr_cert_002.01.15.10.55.00
+INFO:root:Seen this file, starting at 23130
+INFO:root:Processing smapi.cpc222731.ChasmMonitor_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 792
+INFO:root:Processing smapi.cpc222731.DrsRetr_cert_003.01.15.11.05.00
+INFO:root:Seen this file, starting at 4752
+INFO:root:Processing smapi.cpc222731.DrsInstr_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 15184
+INFO:root:Processing smapi.cpc222731.ID_web_collector_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 2978
+INFO:root:Processing smapi.cpc222731.ChasmExec_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 768
+INFO:root:Processing smapi.cpc222732.DrsInstr_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 22758
+INFO:root:Processing smapi.cpc222732.DrsRetr_cert_002.01.15.11.00.00
+INFO:root:Seen this file, starting at 9348
+INFO:root:Processing smapi.cpc222732.DrsRetr_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc222732.DrsJCite_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 13149
+INFO:root:Processing smapi.cpc222732.DrsRetr_cert_004.01.15.11.00.00
+INFO:root:Seen this file, starting at 9478
+INFO:root:Processing smapi.cpc222732.DrsToc_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc222732.DrsShpd_cert_001.01.15.11.01.45
+INFO:root:Seen this file, starting at 4633
+INFO:root:Processing smapi.cpc222732.ChasmExec_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 1920
+INFO:root:Processing smapi.cpc222732.DrsJCite_cert_003.01.15.10.45.00
+INFO:root:Seen this file, starting at 7730
+INFO:root:Processing smapi.cpc222732.ID_web_collector_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 5953
+INFO:root:Processing smapi.cpc222732.ChasmMonitor_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 1584
+INFO:root:Processing smapi.cpc222732.DrsRetr_cert_003.01.15.11.00.00
+INFO:root:Seen this file, starting at 9362
+INFO:root:Processing smapi.cpc222732.ID_dime_smdata_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 3230
+INFO:root:Processing smapi.cpc222732.DrsSrch_cert_001.01.15.11.01.56
+INFO:root:Seen this file, starting at 10560
+INFO:root:Processing smapi.cpc222732.DrsJCite_cert_002.01.15.11.01.56
+INFO:root:Seen this file, starting at 4452
+INFO:root:Processing smapi.cpc222732.DrsLapi_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1151
+INFO:root:Processing smapi.cpc222732.DrsSrch_cert_002.01.15.11.05.00
+INFO:root:Seen this file, starting at 2409
+INFO:root:Processing smapi.cpc222732.DrsMprxy_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 714
+INFO:root:Processing smapi.cpc222732.DrsAnltx_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1999
+INFO:root:Processing smapi.cpc222733.Entex_SA_cert_002.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc222733.Entex_SA_cert_002.01.15.10.40.00
+INFO:root:Seen this file, starting at 8841
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc222733.Entex_SA_cert_003.01.15.11.00.00
+INFO:root:Seen this file, starting at 2936
+INFO:root:Processing smapi.cpc222733.DrsJCite_cert_003.01.15.10.42.07
+INFO:root:Seen this file, starting at 1805196
+INFO:root:Processing smapi.cpc222733.Entex_SA_cert_002.01.15.10.45.00
+INFO:root:Seen this file, starting at 7384
+INFO:root:Processing smapi.cpc222733.DrsLdr_cert_002.01.15.10.51.15
+INFO:root:Seen this file, starting at 94205
+INFO:root:Processing smapi.cpc222733.Entex_SA_cert_003.01.15.10.55.00
+INFO:root:Seen this file, starting at 4416
+INFO:root:Processing smapi.cpc222733.DrsJCite_cert_002.01.15.11.00.05
+INFO:root:Seen this file, starting at 596732
+INFO:root:Processing smapi.cpc222733.ChasmMonitor_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 396
+INFO:root:Processing smapi.cpc222733.Entex_SA_AU_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc222733.DrsJCite_cert_003.01.15.11.12.08
+INFO:root:New file
+INFO:root:Processing smapi.cpc222733.ChasmExec_cert_001.01.15.10.50.00
+INFO:root:Seen this file, starting at 1536
+INFO:root:Processing smapi.cpc222733.DrsJCite_cert_001.01.15.10.52.08
+INFO:root:Seen this file, starting at 1161293
+INFO:root:Processing smapi.cpc222733.ShepSynd_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 1257
+INFO:root:Processing smapi.cpc222733.Entex_SA_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 5850
+INFO:root:Processing smapi.cpc222733.ShepLoader_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1658
+INFO:root:Processing smapi.cpc222733.Citex_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 3658
+INFO:root:Processing smapi.cpc222733.ID_web_collector_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1489
+INFO:root:Processing smapi.cpc222733.ShepLoader_cert_002.01.15.10.50.00
+INFO:root:Seen this file, starting at 3316
+INFO:root:Processing smapi.cpc222733.ID_dime_smdata_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 4900
+INFO:root:Processing smapi.cpc222733.DrsLdr_cert_001.01.15.10.55.00
+INFO:root:Seen this file, starting at 91436
+INFO:root:Processing smapi.cpc222734.DrsLdr_cert_001.01.15.11.05.51
+INFO:root:Seen this file, starting at 1584
+INFO:root:Processing smapi.cpc222734.DrsJCite_cert_003.01.15.10.40.36
+INFO:root:Seen this file, starting at 1817719
+INFO:root:Processing smapi.cpc222734.Entex_SA_cert_003.01.15.10.45.00
+INFO:root:Seen this file, starting at 14896
+INFO:root:Processing smapi.cpc222734.Entex_SA_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1469
+INFO:root:Processing smapi.cpc222734.DrsJCite_cert_003.01.15.11.10.36
+INFO:root:New file
+INFO:root:Processing smapi.cpc222734.Entex_SA_cert_002.01.15.10.55.00
+INFO:root:Seen this file, starting at 4457
+INFO:root:Processing smapi.cpc222734.DrsLdr_cert_002.01.15.10.58.38
+INFO:root:Seen this file, starting at 70656
+INFO:root:Processing smapi.cpc222734.ShepLoader_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 1658
+INFO:root:Processing smapi.cpc222734.ShepLoader_cert_002.01.15.11.00.00
+INFO:root:Seen this file, starting at 1658
+INFO:root:Processing smapi.cpc222734.Entex_SA_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 2922
+INFO:root:Processing smapi.cpc222734.ID_dime_smdata_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1636
+INFO:root:Processing smapi.cpc222734.Citex_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 21108
+INFO:root:No new data, same size, skipping
+INFO:root:Processing smapi.cpc222734.ChasmExec_cert_001.01.15.10.40.00
+INFO:root:Seen this file, starting at 2304
+INFO:root:Processing smapi.cpc222734.Entex_SA_cert_002.01.15.11.05.00
+INFO:root:Seen this file, starting at 1514
+INFO:root:Processing smapi.cpc222734.Entex_SA_AU_cert_001.01.15.11.05.00
+INFO:root:Seen this file, starting at 1462
+INFO:root:Processing smapi.cpc222734.ChasmMonitor_cert_001.01.15.10.45.00
+INFO:root:Seen this file, starting at 1980
+INFO:root:Processing smapi.cpc222734.ID_web_collector_cert_001.01.15.11.00.00
+INFO:root:Seen this file, starting at 2978
+INFO:root:Processing smapi.cpc222734.DrsJCite_cert_001.01.15.11.07.04
+INFO:root:Seen this file, starting at 142669
+INFO:root:Processing smapi.cpc222734.DrsJCite_cert_002.01.15.11.08.33
+INFO:root:Seen this file, starting at 26920
+INFO:root:Processing smapi.cpc222734.Entex_SA_AU_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Processing smapi.cpc222734.Citex_cert_001.01.15.11.10.00
+INFO:root:New file
+INFO:root:Total time was: 3.45296 seconds records: 2665  Kbytes: 2770 Files: 203
+INFO:root:Total time was: 0.0575493 minutes
+INFO:root:Started at: Wed Jan 15 11:14:02 2014
+INFO:root:Ended at: Wed Jan 15 11:14:06 2014
+INFO:root:State read value is 1
+INFO:root:Going to sleep for 296.533574104 seconds
