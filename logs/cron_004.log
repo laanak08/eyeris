@@ -1,1 +1,0 @@
-/nfs/sup01/cpm/.local/lib/python2.7/site-packages/setuptools-2.0.1-py2.7.egg/pkg_resources.py:974: UserWarning: /nfs/sup01/cpm/.python-eggs is writable by group/others and vulnerable to attack when used with get_resource_filename. Consider a more secure location (set with .set_extraction_path or the PYTHON_EGG_CACHE environment variable).
