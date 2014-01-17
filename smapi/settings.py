@@ -79,6 +79,6 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/dev/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = '/cpm/projects/smapi_browser/static/'
 
-TEMPLATE_DIRS = ( '/cpm/projects/smapi/templates', )
+TEMPLATE_DIRS = ( '/cpm/projects/smapi_browser/templates', )
