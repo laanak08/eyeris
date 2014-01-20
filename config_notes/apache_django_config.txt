@@ -1,3 +1,17 @@
+Alias /iris/static/ /home/marcelle/djcode/smapi_browser/static/
+
+<Directory /home/marcelle/djcode/smapi_browser/static>
+Order deny,allow
+Allow from all
+</Directory>
+
+WSGIScriptAlias /iris /home/marcelle/djcode/smapi_browser/apache/django.wsgi
+
+<Directory /home/marcelle/djcode/smapi_browser/apache>
+Order allow,deny
+Allow from all
+</Directory>
+
 Configuring apache for django.
 
 Alias /robots.txt /usr/local/wsgi/static/robots.txt
