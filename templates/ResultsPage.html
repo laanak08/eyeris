@@ -1,5 +1,10 @@
 {% extends 'basic.html' %}
 
 {% block body %}
-	{{ message }}
+	{{ query }}
+	{% if queryResults %}
+		{{ queryResults }}
+	{% elif not queryResults %}
+		<span>Above query returned no results </span>
+	{% endif %}
 {% endblock %}
