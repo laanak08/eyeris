@@ -1,18 +1,22 @@
 {% extends 'basic.html' %}
 
 {% block body %}
+	{% if alert %}
 	<div class="ui-widget">
 	        <div class="ui-state-error ui-corner-all" style="padding: 0 .7em;">
 	                <p><span class="ui-icon ui-icon-alert" style="float: left; margin-right: .3em;"></span>
-	                <strong>Alert:</strong> This is a prototype only on a select set of servers. Records are kept for 24 hours only </p>
+	                <strong>Alert:</strong>{{ alert }} </p>
 	        </div>
 	</div>
+	{% endif %}
+	{% if updates %}
 	<div class="ui-widget">
 	        <div class="ui-state-highlight ui-corner-all" style="margin-top: 20px; padding: 0 .7em;">
 	                <p><span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
-	                <strong>Updates</strong> All identified LexisAdvance servers are now loading. Begin and end time are displaying as columns, as well as response time in seconds. The Server filter is set to auto-complete with the servers we have.</p>
+	                <strong>Updates</strong>{{ updates }} </p>
 	        </div>
 	</div>
+	{% endif %}
 	<div id="tabs">
 		
 		<ul>
