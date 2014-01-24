@@ -1,8 +1,52 @@
-{% extends 'base.html' %}
+{% extends 'basic.html' %}
 
-{% block contents %}
-	<form action="/iris" method="post">
-		{% csrf_token %}
-		{{ form.as_ul }}
-	<input type="submit" value="Submit" />
+{% block body %}
+	<div class="ui-widget">
+	        <div class="ui-state-error ui-corner-all" style="padding: 0 .7em;">
+	                <p><span class="ui-icon ui-icon-alert" style="float: left; margin-right: .3em;"></span>
+	                <strong>Alert:</strong> This is a prototype only on a select set of servers. Records are kept for 24 hours only </p>
+	        </div>
+	</div>
+	<div class="ui-widget">
+	        <div class="ui-state-highlight ui-corner-all" style="margin-top: 20px; padding: 0 .7em;">
+	                <p><span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+	                <strong>Updates</strong> All identified LexisAdvance servers are now loading. Begin and end time are displaying as columns, as well as response time in seconds. The Server filter is set to auto-complete with the servers we have.</p>
+	        </div>
+	</div>
+	<div id="tabs">
+		
+		<ul>
+			<li><a href="#mainContent">KERs</a></li>
+			<li><a href="#errors">Errors</a></li>
+			<li><a href="#tracer">Tracer</a></li>
+		</ul>
+		
+	    <form action="/iris" method="post">
+	            {% csrf_token %}
+	            {{ form.as_ul }}
+	    <input type="submit" value="Submit" />
+	
+		<div id="errors">
+			<div class="ui-widget">
+				<div class="ui-state-highlight ui-corner-all" style="margin-top: 20px; padding: 0 .7em;">
+					<p>
+						<span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+						<strong>Hi!</strong> Nice to see you are interested in this search form, this page is still under construction
+					</p>
+				</div>
+			</div>
+		</div>
+	
+		<div id="tracer">
+			<div class="ui-widget">
+				<div class="ui-state-highlight ui-corner-all" style="margin-top: 20px; padding: 0 .7em;">
+					<p>
+						<span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+						<strong>Hi!</strong> Nice to see you are interested in this search form, this page is still under construction
+					</p>
+				</div>
+			</div>
+		</div>
+	
+	</div>
 {% endblock %}
